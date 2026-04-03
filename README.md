@@ -18,7 +18,7 @@
 
 ---
 
-##  Skills
+<h2> 🛠️ Skills </h2>
 
 <h4>Languages & Low-Level</h4>
 <span> 
@@ -61,3 +61,10 @@
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
 </span>
+
+<hr>
+
+<h2> 📜 Certifications </h2>
+  <a href="https://www.credly.com/users/cm4rko/badges">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
+  </a>
