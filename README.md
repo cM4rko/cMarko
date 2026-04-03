@@ -6,7 +6,8 @@
 
 - 👾 I break and secure digital systems
 - 🕵🏻‍♂️ Smart Contract Security Researcher
-- 🌐 Web & AD Pentester
+- 🌐 Web Application Pentester
+- 🏰 Active Directory Pentester
 - 🧠 Focused on cybersecurity & blockchain security
 - ⚔️ Continuous learning mindset
 
