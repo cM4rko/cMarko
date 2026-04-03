@@ -8,8 +8,8 @@
 - 🕵🏻‍♂️ Smart Contract Security Researcher
 - 🌐 Web Application Pentester
 - 🏰 Active Directory Pentester
-- 🧠 Focused on cybersecurity & blockchain security
-- ⚔️ Continuous learning mindset
+- 📍 Focused on cybersecurity & blockchain security
+- 🧠 Continuous learning mindset
 
 - 🤿 Currently deep diving into:
   - Smart Contract Auditing & Development
