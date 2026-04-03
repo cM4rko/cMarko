@@ -61,19 +61,3 @@
   <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
 </span>
-
----
-
-## 🌐 Socials
-
-<a href="https://x.com/0xM4rko">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/cm4rko/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:yourmail@protonmail.com">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-</a>
