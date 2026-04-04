@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100000000000000&color=2EF736&width=435&lines=Hi%2C+I'm+Marko" alt="Typing SVG" /></a> </h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF73D&width=435&lines=Hi%2C+I'm+Marko;Pentester;Always+learning" alt="Typing SVG" /></a> </h1>
 
 <img align="right" width=300px alt="hacker" src="./assets/gifs/legoRiddler.gif" />
 
